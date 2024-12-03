@@ -1,3 +1,3 @@
-Um projeto, bem simples utilizando o gitpages, e o meu primeiro projeto 
+UM PROJETO BEM SIMPLES ESTILO JOGO, UTILIZANDO PELA PRIMEIRA VEZ: JAVASCRIPT; BOOSTRAP E FIGMA
 
 SITE : https://kleber-goncalves.github.io/JOGO-DA-FORCA/
